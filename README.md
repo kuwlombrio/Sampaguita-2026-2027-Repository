@@ -34,5 +34,8 @@ If the item has been found:
 Your item has been found! Please claim it with Saavedra, Jarred Drey or if not with him claim it at the DO's Office.
 
 Contributors: Lombrio - Made the idea and proposal. Also, is going to make the code for the proposal to work.
+              (Title, Overview and Example)
               Saavedra - Helped formulate the proposal. Also, is going to document the final output.
+              (Features)
               Paloma - Helped formulate the proposal. Will help in making the final code.
+              (Contributors, Requirements)
