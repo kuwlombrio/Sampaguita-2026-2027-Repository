@@ -1,9 +1,7 @@
 # Sampaguita-2026-2027-Repository
 Repository for CS
 
-Lombrio, Kurt Wynn 
- Paloma, Dreanne Carlos  
- Saavedra, Jarred Drey
+Lombrio, Kurt Wynn and Paloma, Dreanne Carlos and Saavedra, Jarred Drey
 
 Project Title: Lost-n-Found Item Tracker or LF-IT
 
