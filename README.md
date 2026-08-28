@@ -10,6 +10,7 @@ Overview/Description: LF-IT is an app/code that you can use for item loss in sch
 Features: The DO can record a lost item, making it saved inside the app/code. Meanwhile, the students or person can report a lost item and if there is an item that is same or related to the reported item then the student gets notified about the lost item.
 
 How to run/Requirements: The code is going to ask the user between if they lost an item or they are going to report a lost item.
+RQ: A phone/ Device, Python application, stable internet connection.
 
 Sample interaction/Output: The DO will record an item that has been found and it will be saved in the code. Meanwhile, the student will report for a lost item and if there is the same or similar item that has been recorded then it's going to tell the student to claim there item in the DO office.
 
