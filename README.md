@@ -13,6 +13,22 @@ How to run/Requirements: The code is going to ask the user between if they lost 
 
 Sample interaction/Output: The DO will record an item that has been found and it will be saved in the code. Meanwhile, the student will report for a lost item and if there is the same or similar item that has been recorded then it's going to tell the student to claim there item in the DO office.
 
+Example for DO or the recorder(Option 1):
+Please choose one (Found an item: 1 or Lost an item: 2): 
+Enter your name (Last Name, First Name): Saavedra, Jarred Drey
+Enter the item found: Iphone 17 Pro Max
+The item has successfully been recorded! Please give it to the DO if not given yet.
+
+Example for the Student who lost an item(Option 2):
+Please choose one (Found an item: 1 or Lost an item: 2): 
+Enter your name (Last Name, First Name): Paloma, Dreanne Carlos
+Enter the item you lost: Iphone 17 Pro Max
+The lost item has been recorded!
+Your item is with Saavedra, Jarred Drey, if not with him please check the DO's office.
+
+If item is not found:
+The item has not been found yet. Please wait for the DO to have an update regarding this lost item.
+
 Contributors: Lombrio - Made the idea and proposal. Also, is going to make the code for the proposal to work.
               Saavedra - Helped formulate the proposal. Also, is going to document the final output.
               Paloma - Helped formulate the proposal. Will help in making the final code.
