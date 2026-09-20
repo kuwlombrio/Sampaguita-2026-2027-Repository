@@ -27,12 +27,6 @@ Enter the item you lost: Iphone 17 Pro Max
 The lost item has been recorded!
 Your item is with Saavedra, Jarred Drey, if not with him please check the DO's office.
 
-If item is not found:
-The item has not been found yet. Please wait for the DO to have an update regarding this lost item.
-
-If the item has been found:
-Your item has been found! Please claim it with Saavedra, Jarred Drey or if not with him claim it at the DO's Office.
-
 Contributors: Lombrio - Made the idea and proposal. Also, is going to make the code for the proposal to work.
               (Title, Overview and Example)
               Saavedra - Helped formulate the proposal. Also, is going to document the final output.
