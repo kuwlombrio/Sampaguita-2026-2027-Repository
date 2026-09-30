@@ -1,4 +1,4 @@
-# Sampaguita-2026-2027-Repository FINDBACK
+# Project FindBack
 Repository for CS
 
 Project Title: FindBack
