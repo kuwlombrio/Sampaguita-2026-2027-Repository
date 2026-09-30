@@ -1,8 +1,6 @@
 # Sampaguita-2026-2027-Repository
 Repository for CS
 
-Lombrio, Kurt Wynn and Paloma, Dreanne Carlos and Saavedra, Jarred Drey
-
 Project Title: FindBack
 
 Overview/Description: FindBack is an app/code that you can use for item loss in school. Using this we can give it to the DO and instead of using normal hard-copy paper we can have it as a soft-copy. With this if any lost item is found the DO can just record it on the code/app and have a saved data for the item. If a student reports that they have a lost item, the app checks for any items related to the reported item and notifies the student who reported there lost item.
