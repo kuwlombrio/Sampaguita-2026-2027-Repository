@@ -12,7 +12,7 @@ This file records the ideas, planning, and updates made to the NoticeBoard proje
 - Finalize the list of features.
 - Start working on the main Python code.
 
-## [2.0] - October 19, 2026
+## [v2.0] - October 19, 2026
 ### Added
 - Listed possible features for the application.
 - Planned how announcements will be added, viewed, and searched.
@@ -21,7 +21,7 @@ This file records the ideas, planning, and updates made to the NoticeBoard proje
 ### Changed
 - Improved the original project idea based on the group's discussion.
 
-## [1.0] - October 16, 2026
+## [v1.0] - October 16, 2026
 ### Initial Planning
 - Came up with the idea for NoticeBoard.
 - Identified the problem of students having difficulty finding school announcements.
