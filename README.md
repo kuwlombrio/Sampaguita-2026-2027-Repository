@@ -1,39 +1,49 @@
-# Project FindBack
-Repository for CS
+# Project Title: NoticeBoard
 
-Project Title: FindBack
+## Overview / Description
 
-Overview/Description: FindBack is an app/code that you can use for item loss in school. Using this we can give it to the DO and instead of using normal hard-copy paper we can have it as a soft-copy. With this if any lost item is found the DO can just record it on the code/app and have a saved data for the item. If a student reports that they have a lost item, the app checks for any items related to the reported item and notifies the student who reported there lost item.
+The NoticeBoard is a Python-based digital announcement management system that will be developed to manage and organize school announcements. The system will endeavor to solve the problems that are faced when trying to locate desired announcements among multiple notices, messages, and classroom instructions.
 
-Features: The DO can record a lost item, making it saved inside the app/code. Meanwhile, the students or person can report a lost item and if there is an item that is same or related to the reported item then the student gets notified about the lost item.
+The NoticeBoard will be utilized to record school announcements’ titles, descriptions, categories, target audience, posting dates, and due or event dates by the authorized personnel. Students will be able to search, view, and filter the announcements based on their categories and target audiences.
 
-How to run/Requirements: The code is going to ask the user between if they lost an item or they are going to report a lost item.
-RQ: A phone/ Device, Python application, stable internet connection.
+In addition, the system will indicate the announcements that are due or have event dates to help users eliminate irrelevant information. The authorized personnel will be able to update incorrect information and delete irrelevant announcements.
 
-Sample interaction/Output: The DO will record an item that has been found and it will be saved in the code. Meanwhile, the student will report for a lost item and if there is the same or similar item that has been recorded then it's going to tell the student to claim there item in the DO office.
+The developed prototype will be coded in Python and will be hosted in local files. The application will be operated offline on a compatible hardware and software setup.
 
-Example for DO or the recorder(Option 1):
-Please choose one (Found an item: 1 or Lost an item: 2): 
-Enter your name (Last Name, First Name): Saavedra, Jarred Drey
-Enter the date(00/00/0000):
-Enter the item found: Iphone 17 Pro Max
-The item has successfully been recorded! Please give it to the DO if not given yet.
+The project will address the needs of organizing and recording announcements in a centralized system while leaving the responsibility of providing the information to the school’s authorized personnel. The NoticeBoard will not automatically record the school announcements provided by teachers or notify the students when a notification is due. The information will need to be manually inputted and operated on a compatible device without internet access.
 
-Example for the Student who lost an item(Option 2):
-Please choose one (Found an item: 1 or Lost an item: 2): 
-Enter your name (Last Name, First Name): Paloma, Dreanne Carlos
-Enter the date(00/00/0000):
-Enter the item you lost: Iphone 17 Pro Max
-The lost item has been recorded!
-Your item is with Saavedra, Jarred Drey, if not with him please check the DO's office.
 
-Example for the showcase of lost items(Option 3):
-Name of who reported    |     Found Item          |  Date of Report
-Saavedra, Jarred Drey   |     Iphone 17 Pro Max   |  09/10/2026
+## Problem Statement
 
-Contributors: Lombrio - Made the idea and proposal. Also, is going to make the code for the proposal to work.
-              (Title, Overview and Example)
-              Saavedra - Helped formulate the proposal. Also, is going to document the final output.
-              (Features)
-              Paloma - Helped formulate the proposal. Will help in making the final code.
-              (Contributors, Requirements)
+Announcements hold vital information for students, including task due dates, examination schedules, school events, and other requirements. However, when the notices are shared in print media, the information may be easily overlooked or mixed with other class instructions, depending on the distribution channel. Similarly, when the information is shared digitally, the announcements’ details may be difficult to locate if the channel provides multiple notice boards and message channels.
+
+The above challenges can lead to miscommunication, poor information dissemination, and forgotten task due dates. Additionally, the problems may arise when personnel responsible for sharing and providing the information need to repeatedly remind the students of the task details, including the due and event dates. This issue may be solved by having a central point for storing, organizing, and retrieving announcement data.
+
+NoticeBoard will offer a solution to the problems by providing a digital notice board that will be operated by the authorized personnel. While the information will be manually added to the system, it will offer a search function that will ease the process of locating the required announcements. The students will be able to filter the announcements based on categories and target audiences and view the due or event dates of the selected information. The system will also help store the relevant announcement data, allowing the personnel to update or delete any irrelevant information.
+
+The success of the NoticeBoard in solving the problem will rely on the information provided by the school personnel. The system will not be able to ensure that the information will be up to date or that all students will read the announcements. The project will only address the issue by creating a central system that will offer a better way of recording and organizing the school’s announcement data.
+
+The project will be developed for the school’s authorized personnel operating the system and the students searching for the required announcements.
+
+## Project Objectives
+
+
+### General Objective
+
+The project will be developed to create a Python-based digital announcement system referred to as NoticeBoard that will store and organize announcement data in a unique system.
+
+### Specific Objectives
+
+1. To develop a Python-based digital notice board that will store and organize the school’s announcement data.
+2. The board will offer a search functionality that will help students filter the announcements based on their categories and target audiences.
+3. The project will be operated offline on compatible hardware and software.
+
+## Contributors
+
+Lombrio – Proposed the original project idea and is responsible for preparing the project proposal, developing the main Python program, and implementing the core functions, including announcement creation, searching, filtering, and data storage.
+
+Saavedra – Assisted in formulating and organizing the project proposal and is responsible for documenting the application's final output, preparing sample interactions, and testing the announcement display, search, and filtering functions to ensure they work correctly.
+
+Paloma – Assisted in formulating the project proposal and is responsible for helping develop and improve the Python code, testing input validation and announcement management functions, and checking whether the application meets its stated objectives and requirements.
+
+All members will collaborate in reviewing the completed application, identifying errors, conducting the final tests, and preparing the project documentation and presentation.
