@@ -2,48 +2,50 @@
 
 ## Overview / Description
 
-The NoticeBoard is a Python-based digital announcement management system that will be developed to manage and organize school announcements. The system will endeavor to solve the problems that are faced when trying to locate desired announcements among multiple notices, messages, and classroom instructions.
+The NoticeBoard is a Python-based digital announcement management system that will be developed to help store and organize school announcements in one place. The system aims to solve the difficulties students may experience when trying to find important information among different notices, messages, and classroom instructions.
 
-The NoticeBoard will be utilized to record school announcements’ titles, descriptions, categories, target audience, posting dates, and due or event dates by the authorized personnel. Students will be able to search, view, and filter the announcements based on their categories and target audiences.
+The NoticeBoard will allow authorized school personnel to record school announcements, including their titles, descriptions, categories, target audiences, posting dates, and due or event dates. Students will be able to view, search, and filter announcements based on their keywords, categories, and target audiences.
 
-In addition, the system will indicate the announcements that are due or have event dates to help users eliminate irrelevant information. The authorized personnel will be able to update incorrect information and delete irrelevant announcements.
+In addition, the system will help students find important announcements and keep track of their due or event dates. Authorized personnel will also be able to update incorrect information and delete outdated or irrelevant announcements.
 
-The developed prototype will be coded in Python and will be hosted in local files. The application will be operated offline on a compatible hardware and software setup.
+The project will be developed using Python and will store announcement data in local files. The application will run offline on a compatible computer without requiring an internet connection.
 
-The project will address the needs of organizing and recording announcements in a centralized system while leaving the responsibility of providing the information to the school’s authorized personnel. The NoticeBoard will not automatically record the school announcements provided by teachers or notify the students when a notification is due. The information will need to be manually inputted and operated on a compatible device without internet access.
-
+The project will help provide a more organized way of recording and finding school announcements while leaving the responsibility of providing the information to the school's authorized personnel. However, the system will not automatically collect announcements from teachers or notify students when a deadline or event is approaching. All information will need to be manually entered and managed using a compatible computer without internet access.
 
 ## Problem Statement
 
-Announcements hold vital information for students, including task due dates, examination schedules, school events, and other requirements. However, when the notices are shared in print media, the information may be easily overlooked or mixed with other class instructions, depending on the distribution channel. Similarly, when the information is shared digitally, the announcements’ details may be difficult to locate if the channel provides multiple notice boards and message channels.
+School announcements contain important information for students, including assignment deadlines, examination schedules, school events, and other academic requirements. However, when announcements are shared through printed materials, some information may be overlooked or mixed with other classroom instructions. Similarly, when announcements are shared digitally, important details may become difficult to find because of the many messages and communication channels being used.
 
-The above challenges can lead to miscommunication, poor information dissemination, and forgotten task due dates. Additionally, the problems may arise when personnel responsible for sharing and providing the information need to repeatedly remind the students of the task details, including the due and event dates. This issue may be solved by having a central point for storing, organizing, and retrieving announcement data.
+These problems may lead to miscommunication, difficulty in finding important information, and forgotten assignment deadlines. School personnel may also need to repeatedly remind students about announcements, especially when it comes to important requirements and due or event dates. Because of these challenges, having one place where announcements can be stored and organized may help make information easier to find.
 
-NoticeBoard will offer a solution to the problems by providing a digital notice board that will be operated by the authorized personnel. While the information will be manually added to the system, it will offer a search function that will ease the process of locating the required announcements. The students will be able to filter the announcements based on categories and target audiences and view the due or event dates of the selected information. The system will also help store the relevant announcement data, allowing the personnel to update or delete any irrelevant information.
+NoticeBoard will help address these problems by providing a digital announcement system that will be managed by authorized personnel. The system will allow them to manually add and manage announcements, while students will be able to search for information using keywords and filter announcements based on their categories and target audiences. Students will also be able to view the due or event dates of the announcements.
 
-The success of the NoticeBoard in solving the problem will rely on the information provided by the school personnel. The system will not be able to ensure that the information will be up to date or that all students will read the announcements. The project will only address the issue by creating a central system that will offer a better way of recording and organizing the school’s announcement data.
+The system will also allow authorized personnel to update incorrect information and delete outdated or irrelevant announcements. This will help keep the stored information organized and make it easier for students to find the announcements they need.
 
-The project will be developed for the school’s authorized personnel operating the system and the students searching for the required announcements.
+However, the effectiveness of NoticeBoard will depend on the information provided by the school's authorized personnel. The system will not automatically collect announcements from teachers, guarantee that all students will read them, or send notifications about upcoming deadlines and events. The project will only focus on providing a centralized system for recording, organizing, and finding school announcement information.
+
+The project will be developed for the school's authorized personnel who will manage the announcements and the students who will use the system to find the information they need.
 
 ## Project Objectives
 
-
 ### General Objective
 
-The project will be developed to create a Python-based digital announcement system referred to as NoticeBoard that will store and organize announcement data in a unique system.
+The project aims to develop a Python-based digital announcement management system called NoticeBoard that will store and organize school announcements in one place.
 
 ### Specific Objectives
 
-1. To develop a Python-based digital notice board that will store and organize the school’s announcement data.
-2. The board will offer a search functionality that will help students filter the announcements based on their categories and target audiences.
-3. The project will be operated offline on compatible hardware and software.
+1. To develop a Python-based digital notice board that will store and organize school announcement data.
+2. To provide a search function that will help students find announcements using keywords.
+3. To allow students to filter announcements based on their categories and target audiences.
+4. To allow authorized personnel to add, edit, and delete announcements.
+5. To develop a system that can operate offline using local file storage on a compatible computer.
 
 ## Contributors
 
-Lombrio – Proposed the original project idea and is responsible for preparing the project proposal, developing the main Python program, and implementing the core functions, including announcement creation, searching, filtering, and data storage.
+**Lombrio** – Proposed the original project idea and is responsible for preparing the project proposal, developing the main Python program, and working on its main functions, including adding announcements, searching, filtering, and saving announcement data.
 
-Saavedra – Assisted in formulating and organizing the project proposal and is responsible for documenting the application's final output, preparing sample interactions, and testing the announcement display, search, and filtering functions to ensure they work correctly.
+**Saavedra** – Assisted in preparing and organizing the project proposal and is responsible for documenting the application's final output, preparing sample interactions, and testing the announcement viewing, searching, and filtering functions to make sure they work properly.
 
-Paloma – Assisted in formulating the project proposal and is responsible for helping develop and improve the Python code, testing input validation and announcement management functions, and checking whether the application meets its stated objectives and requirements.
+**Paloma** – Assisted in preparing the project proposal and is responsible for helping develop and improve the Python code, testing input validation and announcement management functions, and checking if the application meets its objectives and requirements.
 
-All members will collaborate in reviewing the completed application, identifying errors, conducting the final tests, and preparing the project documentation and presentation.
+All members will work together in reviewing the completed application, finding and fixing errors, conducting final tests, and preparing the project documentation and presentation.
